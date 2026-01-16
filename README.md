@@ -1,4 +1,4 @@
-# PatsProjectSolutions.github.io-
+# PatsProjectSolutions.github.io
 The solution to your project
 <!doctype html>
 <html lang="en">
